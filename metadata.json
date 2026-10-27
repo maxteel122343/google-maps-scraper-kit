@@ -1,0 +1,6 @@
+{
+  "name": "Google Maps Scraper Kit",
+  "description": "Local Google Maps business lead scraper with geocoding, deep email enrichment, social discovery, and CSV/JSON export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
